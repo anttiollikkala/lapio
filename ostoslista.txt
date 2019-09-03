@@ -1,6 +1,7 @@
 saippuaa
 kauppias
 värikäs kynä
+harmahtava kynä
 fuksi
 tuutori
 kannettava tietokone
